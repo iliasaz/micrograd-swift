@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "graphviz",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftDocOrg/GraphViz",
+      "state" : {
+        "branch" : "main",
+        "revision" : "74b6cbd8c5ecea9f64d84c4e1c88d65604dd033f"
+      }
+    }
+  ],
+  "version" : 2
+}
